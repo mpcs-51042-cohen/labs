@@ -1,5 +1,6 @@
 # 1. Write a function to find the largest digit in a given number
 def largest_digit(num):
+  num_str = str(num)
   pass
 
 # 2. Write a function to check if a year is a leap year
