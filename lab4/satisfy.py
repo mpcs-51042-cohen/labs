@@ -20,7 +20,7 @@
 # ```
 
 def satisfy(func1, func2, values):
-    return [ (value, func1(value) and func2(value)) for value in values ]
+    pass
 
 
 
