@@ -1,0 +1,16 @@
+user_id,name,email,signup_date,status
+1001,Alice Johnson,alice@example.com,2024-01-15,active
+1002,Bob Smith,,2024-01-16,active
+1003,,charlie@example.com,2024-01-17,pending
+1004,Diana Prince,diana@example.com,,active
+1005,Eve Thompson,eve@example.com,2024-01-19,active
+1006,Frank Miller,frank@example.com,2024-01-20,
+1007,Grace Lee,grace@example.com,2024-01-21,inactive
+1008,Henry Davis,,2024-01-22,active
+1009,Iris Chen,iris@example.com,2024-01-23,active
+1010,,jack@example.com,2024-01-24,pending
+1011,Karen White,karen@example.com,2024-01-25,active
+1012,Leo Martinez,leo@example.com,,active
+1013,Maya Patel,maya@example.com,2024-01-27,active
+1014,Noah Kim,,2024-01-28,
+1015,Olivia Brown,olivia@example.com,2024-01-29,active
